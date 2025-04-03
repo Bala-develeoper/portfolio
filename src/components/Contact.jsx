@@ -31,9 +31,9 @@ const Contact = () => {
         "template_wn0htpm",
         {
           from_name: form.name,
-          to_name: "Indira Priyadharshini M",
+          to_name: "Balaji Ganessin",
           from_email: form.email,
-          to_email: "indirapriyadharshini.mary@gmail.com",
+          to_email: "balajiganessin06@gmail.com",
           message: form.message,
         },
         "6kLPGFk6o4Oyb0utZ"

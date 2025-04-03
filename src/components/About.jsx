@@ -37,11 +37,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software engineer with experience in UI/UX, Kotlin, PHP,
-        MYSQL and JavaScript, and expertise in frameworks like React, Node.js
-       . I'm a quick learner and collaborate closely with clients
-        to create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        A tech professional skilled in both web development and hardware engineering, adept at designing, optimizing, and integrating digital and physical systems. Proficient in HTML, CSS, JavaScript and MySQL, ensuring seamless user experiences and efficient database management. Experienced in creating scalable hardware solutions integrated with firmware for high-performance applications. With a strong foundation in software-hardware synergy, passionate about bridging both fields to deliver innovative, efficient, and reliable technology solutions. Committed to continuous learning and industry advancements to stay ahead in developing cutting-edge applications.
+
+
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
